@@ -1,82 +1,41 @@
 # What is a State?
 
-Let's start with the word itself.
+Soooooo, Let's start with the word itself.
 
 *State* comes from the Latin *status*, which comes from *stare* meaning *to stand*. The same root gave us words like *stable*, *constant*, *station*, and *substance* ("that which stands under").
 
-So at its oldest, a state was simply the way something was standing.
-
-Its condition.
-
-Its position.
-
-Its current situation in the grand drama that is existence.
+So at its oldest, a state was simply the way something was standing. Its condition, Its position, Its current situation in the grand drama that is existence.
 
 And here's the first interesting thing: a state only makes sense if change is possible.
 
 If something could never change, talking about its state would be pointless. Nobody asks what state a rock is in every five minutes. But ask a clinician about a patient and suddenly state becomes very important.
-
-"Stable."
-
-"Critical."
-
-"Improving."
-
-"Deteriorating."
-
+"Stable" "Critical" "Improving" "Deteriorating" etc.
 Those words matter because tomorrow's answer may be different.
 
-So while a state is not time itself, it is inseparable from time. A state is essentially a snapshot — the answer to the question:
-
-> What condition is this thing in right now?
+So while a state is not time itself, it is practically inseparable from time. Think of state as essentially a snapshot of a current condition, or something like that:
 
 A patient is in a critical state.
-
 A person is in a state of confusion.
-
 Matter exists in a state: solid, liquid, gas.
-
 A nation is a state, meaning a political organization that stands and persists through time even as rulers, governments, and citizens come and go.
 
 Different contexts.
-
 Same ancient idea.
 
 What is the current condition of this thing, and how is it holding itself together right now?
 
----
-
 # The Body Apparently Likes Existing
 
-This turns out to be one of the most important ideas in biology.
+This turns out to be one of the most important ideas in biology in my opinion.
 
-Back in the nineteenth century, a French physiologist named Claude Bernard noticed something curious.
-
-The body isn't just sitting there passively while the world happens to it.
-
-It's actively maintaining itself.
-
-Temperature.
-
-Glucose.
-
-pH.
-
-Electrolytes.
-
-Blood pressure.
-
-Oxygen levels.
+Back in the nineteenth century, a French physiologist named Claude
+[yea i know] Bernard noticed something curious, The body isn't just sitting there passively while the world happens to it, It's actively maintaining itself,Temperature,Glucose,pH,Electrolytes,Blood pressure,Oxygen levels.
 
 The body spends an absurd amount of effort making sure these things remain within acceptable ranges.
 
-Bernard called this the *milieu intérieur* — the internal environment.
+Bernard called this the *milieu intérieur* — the internal environment, pretty fancy name huh.
 
-The idea was revolutionary.
-
-Life wasn't merely responding to the world.
-
-Life was defending a condition.
+Anyways, the idea was revolutionary. Life wasn't merely responding to the world, it was defending a condition.
 
 A state.
 
@@ -88,61 +47,27 @@ Homeostasis comes from the Greek words meaning roughly "similar standing."
 
 Which is honestly just biology's way of saying:
 
-> "The body is trying very hard not to panic."
-
-The important thing is that homeostasis does not mean being static.
-
-A common misconception is that homeostasis means the body wants everything frozen at one value forever.
-
-Not at all.
-
-Your heart rate changes.
-
-Your blood pressure changes.
-
-Your hormone levels change.
-
-Everything changes.
-
-The body is basically a giant controlled chaos machine.
+> "The body don't want no Ls."
+A common misconception is that homeostasis means the body wants everything frozen at one value forever. homeostasis does not mean being static.
+Your heart rate changes,your blood pressure changs, your hormone levels change, Everything changes.
 
 Homeostasis simply means that despite all this change, certain states are continuously defended.
 
-The body isn't preserving stillness.
+it's aim is preserving viability.
 
-It's preserving viability.
 
----
 
 # Engineers Accidentally Agree With Physiologists
 
-Now things get funny.
+Now things might get funny.
 
-Because engineers, mathematicians, and physiologists all approached completely different problems and somehow landed on nearly the same idea.
+I think engineers, mathematicians, and physiologists all approached completely different problems and somehow landed on nearly the same idea.
 
 In control theory, a state is the collection of variables that completely describe a system at a particular moment.
 
-Want to know the state of an aircraft?
+Want to know the state of an aircraft? You need altitude,Velocity,Orientation,Fuel and several other variables.
 
-You need altitude.
-
-Velocity.
-
-Orientation.
-
-Fuel.
-
-And several other variables.
-
-Want to know the state of the cardiovascular system?
-
-You need heart rate.
-
-Stroke volume.
-
-Vascular resistance.
-
-Blood volume.
+Want to know the state of the cardiovascular system? You need heart rate,Stroke volume,Vascular resistance etc.
 
 And a long list of variables your physiology lecturer enjoys weaponizing during examinations.
 
@@ -152,9 +77,7 @@ Same concept.
 
 A state is simply a description of where the system currently is.
 
-And systems don't just have states.
-
-They move through states.
+And systems don't just have states, they move through states.
 
 Which immediately raises a question.
 
@@ -162,9 +85,7 @@ If a person has a state...
 
 Where does that state actually come from?
 
-And that's where things start getting interesting.
 
----
 
 # Meet the Cell: The Smallest Unit of Biological Drama
 
@@ -172,9 +93,7 @@ Before we can talk about the state of a person, we need to identify the smallest
 
 That unit is the cell.
 
-And cells are busy.
-
-Ridiculously busy.
+And cells are busy. Ridiculously busy.
 
 Every second they are:
 
@@ -187,56 +106,27 @@ Every second they are:
 * Deciding whether to divide
 * Deciding whether not to divide
 * Occasionally making decisions that will eventually become exam questions
+* and well a bunch of other discovered and undiscovered things
 
-The state of a cell is the condition of that cell at a given moment.
-
-Not one thing.
-
+The state of a cell sums up the condition of that cell at a given moment.
 Everything.
 
-Its metabolism.
+from metabolism to gene expression, signaling activity, relationship with neighboring cell, survival statusetc we will go deepe into that eventually
 
-Its gene expression.
-
-Its signaling activity.
-
-Its stress level.
-
-Its functional output.
-
-Its relationship with neighboring cells.
-
-Its survival status.
-
-Its internal regulation.
-
-All of it.
-
-Taken together.
-
-Right now.
-
-That is the cell's state.
+All of that taken together,Right now, forms the cell's state.
 
 And importantly, the state can change dramatically even when the DNA stays exactly the same.
 
 A liver cell quietly minding its business at noon is in a very different state from that same liver cell processing the consequences of somebody's "just one more bottle" decision at 2 a.m.
 
-Same cell.
+Same cell,Same genome,Different state.
 
-Same genome.
-
-Different state.
-
----
 
 # The Great Biological Pyramid
 
-Now we can start building.
+Never been to egypt but ive always been facinated by the architecture of the pyramid and the consiracies of alien  involvments, well thereare no aliens here but you might just find it just as facinating.
 
-A tissue is not merely a collection of cells.
-
-It is a collection of cells existing in individual states.
+In my head tissue is not merely a collection of cell, they are a collection of cells existing in individual states.
 
 And the state of the tissue emerges from the interaction of those cellular states.
 
@@ -244,83 +134,40 @@ The word *emerges* is important.
 
 Because the tissue state is not imposed from above.
 
-It arises from below.
-
-Imagine millions of muscle cells sitting quietly.
-
-Each cell is in a relatively low-activity state.
-
-Collectively, they produce the relaxed state of the tissue.
-
-Now a signal arrives.
-
-The cells shift state.
-
-The tissue shifts state.
-
-Nothing magical happened.
-
-The larger state simply followed the smaller states.
-
+It arises from below, singular direction. Imagine millions of muscle cells sitting quietly.Each cell is in a relatively low-activity state.Collectively, they produce the relaxed state of the tissue.
+Now a signal arrives.The cells individualy shift state.The tissue shifts state.Nothing magical happened, the larger state simply followed the smaller states.
 And the same logic continues upward.
 
-Cell states give rise to tissue states.
-
-Tissue states give rise to organ states.
-
-Organ states give rise to system states.
-
-System states give rise to organism states.
+Cell states give rise to tissue states,Tissue states give rise to organ states,Organ states give rise to system states,System states give rise to organism states.
 
 The entire person sitting in front of you is essentially a stack of nested states built on top of one another.
 
 A biological pyramid.
 
-Cells at the bottom.
+Cells at the bottom.Everything else emerging from them.
 
-Everything else emerging from them.
-
----
+See, biological pyramid, pyramid of giza,  same thing different state hehehe.
 
 # Biological Negotiations
 
-But emergence isn't the whole story.
+But emergence isn't the whole story, [nothing ever is].
 
-Because cells don't always agree.
+Because cells don't always agree. Sometimes they converge.Sometimes they antagonize.
 
-Sometimes they converge.
+And honestly, much of physiology i like to describe as an endless series of negotiations.
 
-Sometimes they antagonize.
+Immune cells negotiating with pathogens,Pancreatic cells negotiating with blood glucose.Neurons negotiating with hormones.And so on
 
-And honestly, much of physiology can be described as an endless series of negotiations.
-
-Immune cells negotiating with pathogens.
-
-Pancreatic cells negotiating with blood glucose.
-
-Neurons negotiating with hormones.
-
-Muscle cells negotiating with oxygen supply.
-
-An inflamed tissue is not one state appearing out of nowhere.
-
-It is the outcome of millions of local negotiations happening simultaneously.
-
-Every cell pulling.
-
-Every signal pushing.
-
-Every pathway voting.
+An inflamed tissue is not one state appearing out of nowhere,It is the outcome of millions of local negotiations happening simultaneously.
 
 The resulting tissue state is simply the compromise everyone ends up living with.
 
 At least temporarily.
 
----
+And ofcourse there is a fine line between negotiating and enforcing but thats a story for another day
 
-# Why Clinicians Love Numbers and Why Numbers Lie
 
-Now we arrive at something important.
+# Why Clinicians Love Numbers and Why Numbers can Lie
 
 When you measure a patient's temperature, you are observing a state.
 
@@ -344,39 +191,14 @@ What we see clinically is usually the surface expression of deeper processes occ
 
 Which is why two patients can look similar while having very different underlying realities.
 
-And why two patients with the same diagnosis can occupy very different states.
+And why two patients with the same diagnosis can occupy very different states hence numbers can lie.
 
----
 
-# Structure Tells You What Something Is. State Tells You Where It Is.
 
-This might be the most useful distinction in the entire discussion.
+# State Tells You Where It Is which bids the million dollar question.
 
-Structure tells you what something is.
 
-A liver is a liver.
-
-A heart is a heart.
-
-A neuron is a neuron.
-
-State tells you where that thing currently is.
-
-Healthy.
-
-Injured.
-
-Adapted.
-
-Recovering.
-
-Failing.
-
-Inflamed.
-
-Compensated.
-
-Decompensated.
+State tells you where that thing currently is [Failing,Inflamed, Compensated,Decompensated etc]
 
 And unlike structure, state naturally points toward the future.
 
@@ -390,26 +212,14 @@ They're moving.
 
 A cell isn't just stressed.
 
-It's transitioning.
+It's ever transitioning,following a trajectory through state space because there is no true stasis of any living cell in the human body
 
-An organ isn't simply failing.
+And that's where things start becoming a bit interesting for me.
 
-It's following a trajectory through state space.
-
-And suddenly medicine becomes less about identifying objects and more about understanding motion.
-
-Not motion through physical space.
-
-Motion through biological possibility.
-
-And that's where things start becoming genuinely interesting.
-
-Because once you begin thinking in states, you're no longer asking:
-
-> What disease does this person have?
-
-You're starting to ask:
+Because once you begin thinking in states, You're starting to ask:
 
 > Where is this system now, why is it there, and where is it likely to go next?
 
-And that is a very different question.
+And that is how we enter a region of predictive and preventive medicine.
+
+
