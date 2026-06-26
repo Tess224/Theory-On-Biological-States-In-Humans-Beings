@@ -158,7 +158,7 @@ And honestly, much of physiology i like to describe as an endless series of nego
 
 Immune cells negotiating with pathogens,Pancreatic cells negotiating with blood glucose.Neurons negotiating with hormones.And so on
 
-An inflamed tissue is not one state appearing out of nowhere,It is the outcome of millions of local negotiations happening simultaneously.
+An inflamed tissue is the outcome of millions of local negotiations happening simultaneously.
 
 The resulting tissue state is simply the compromise everyone ends up living with.
 
@@ -220,6 +220,6 @@ Because once you begin thinking in states, You're starting to ask:
 
 > Where is this system now, why is it there, and where is it likely to go next?
 
-And that is how we enter a region of predictive and preventive medicine.
+perhaps the goal isn't merely to predict where biology is going. Perhaps it's to understand the landscape well enough to know which paths are available, which are closed, and which interventions can redirect a system from one trajectory to another.
 
 
