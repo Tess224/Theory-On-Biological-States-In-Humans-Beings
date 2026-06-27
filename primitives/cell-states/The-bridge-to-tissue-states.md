@@ -2,11 +2,11 @@
 
 Everything we have discussed so far has lived inside a single cell.
 
-We have watched organelles negotiate. We have seen conditions emerge from convergence. We have established that a cell state is not one thing happening, but everything happening simultaneously — and that the collective condition of that activity, at a particular moment in time, is what the cell is.
+We have watched organelles negotiate. We have seen conditions emerge from convergence. We have established that a cell state is not one thing happening, but everything happening simultaneously and that the collective condition of that activity, at a particular moment in time, is what the cell is.
 
 Now we zoom out a bit.
 
-Every cell in a living body is surrounded by other cells. It is touching them, signalling to them, receiving signals from them, competing with them for resources, cooperating with them toward shared demands. And all of those neighbouring cells are themselves in states — their own organelles negotiating, their own conditions emerging, their own convergences playing out simultaneously.
+Every cell in a living body is surrounded by other cells. It is touching them, signalling to them, receiving signals from them, competing with them for resources, cooperating with them toward shared demands. And all of those neighbouring cells are themselves in states, their own organelles negotiating, their own conditions emerging, their own convergences playing out simultaneously.
 
 What happens when you have not one cell in a state, but millions?
 
