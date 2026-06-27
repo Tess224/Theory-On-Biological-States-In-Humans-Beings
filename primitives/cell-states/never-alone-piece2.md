@@ -1,14 +1,11 @@
 # The Cell Is Never Just Sitting There
 
-If you could shrink yourself down small enough — past the tissue, past the membrane, into the interior of a single living cell — what you would find is not a quiet room.
+If you could shrink yourself down small enough — past the tissue, past the membrane, into the interior of a single living cell, you would not exactly find is not a quiet room. It would look more like a city.
 
-It would look more like a city.
+A working one. Shifts running at all hours, conversations happening across every district, infrastructure being built and broken down simultaneously, and somewhere in all of that noise, countless processes continuously converging into a single condition.
 
-Not a sleeping city. A working one. Shifts running at all hours, conversations happening across every district, infrastructure being built and broken down simultaneously, and somewhere in all of that noise, a kind of order that keeps the whole thing from collapsing into itself.
+That condition at a particular moment in time is the cell state.
 
-That order is the cell state.
-
-And what produces it is not any single thing happening inside the cell. It is everything — all at once, all in conversation, all feeding into a single collective condition at a particular moment in time.
 
 ---
 
