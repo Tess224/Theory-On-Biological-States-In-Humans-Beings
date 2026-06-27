@@ -10,11 +10,11 @@ A T cell that has never encountered a threat is quiet. Patrolling. Conserving en
 
 Same cell.Same DNA.Three radically different states.This is the point.
 
-The cell's identity — what type of cell it is — does not determine its state. Identity is the category. State is the condition. And the condition can change dramatically while the category stays the same.
+The cell's identity [what type of cell it is] does not determine its state. Identity is the category. State is the condition. And the condition can change dramatically while the category stays the same.
 
-But here is the thing — identity and state are not independent of each other either. They work together to tell a story. An active state in a T cell means something entirely different from an active state in a liver cell. The state only becomes meaningful when you know what cell is occupying it. Identity gives the state its context. State gives the identity its meaning at that particular moment in time.
+But here is the thing, identity and state are not independent of each other either. They work together to tell a story. An active state in a T cell means something entirely different from an active state in a liver cell. The state only becomes meaningful when you know what cell is occupying it. Identity gives the state its context. State gives the identity its meaning at that particular moment in time.
 
-So when we ask, *"What is this cell doing?"* we are asking about both things simultaneously — what it is, and what condition it is currently in.
+So when we ask, *"What is this cell doing?"* we are asking about both things simultaneously, what it is, and what condition it is currently in.
 
 And that combined question is far more important, and far more honest, than either one alone.
 
@@ -26,7 +26,7 @@ A cell does not exist alone.
 
 It exists inside a tissue, which exists inside an organ, which exists inside a system, which exists inside a person.
 
-And the state of that cell either contributes to the larger convergence — adding its condition to the collective condition of the tissue in a way that supports the whole or it doesn't.
+And the state of that cell either contributes to the larger convergence, adding its condition to the collective condition of the tissue in a way that supports the whole or it doesn't.
 
 This is where the more useful question lives;
 ' whether its current state is coherent with the system it belongs to'
