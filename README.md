@@ -29,3 +29,6 @@ I aim to think out loud, follow interesting questions wherever they lead, and oc
 If you're a clinician, researcher, engineer, student, founder, or just another curious human who enjoys asking "but why?" one too many times, you're in the right place, maybe.
 
 Welcome to what goes on in my little mind.
+
+
+_A note before you read: This series mixes established biology with my own attempts to build a more unified way of thinking about living systems. I'll always try to distinguish accepted science from my own interpretations as the framework evolves._
