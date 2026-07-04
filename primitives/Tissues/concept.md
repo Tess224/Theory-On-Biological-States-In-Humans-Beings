@@ -8,7 +8,7 @@ Time to zoom out.
 
 ## The Textbook Answer First
 
-If you open any histology textbook, tissue gets a pretty tidy definition: a group of similar cells, organized together with an extracellular matrix, doing a specific job. Four major classification — epithelial, connective, muscle, nervous — sorted mostly by what the cells look like and how they're arranged.
+If you open any histology textbook, tissue gets a pretty tidy definition: a group of similar cells, organized together with an extracellular matrix, doing a specific job. Four major classification — epithelial, connective, muscle, nervous all sorted mostly by what the cells look like and how they're arranged.
 
 They arent wrong ofcourse, and  It's an extremely useful definition. It's how generations of medical students have learned to recognize what they're looking at under a microscope, and honestly, you need that vocabulary before you can do anything else with it.
 
